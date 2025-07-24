@@ -6,4 +6,4 @@ robotframework==3.1.2
 robotframework-appiumlibrary==1.5.0.4
 selenium==3.141.0
 six==1.13.0
-urllib3==1.26.19
+urllib3==2.5.0
